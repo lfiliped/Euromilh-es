@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ###### EXERCISES_1_EURO (updated 2024.10.03)
 
 ###### sir2425 pedro moreira
@@ -74,3 +75,7 @@ Modify the project to request keys from the server.
 
 - install node.js
 - install express.js
+=======
+# Euromilhões
+Exercicios resolvidos e euromilhões resultado final 
+>>>>>>> cb353a2da6d894398f69672b0a6eb5999f893b66
