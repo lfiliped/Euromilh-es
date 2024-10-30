@@ -1,2 +1,2 @@
-# Euromilh-es
-Exercicios e resultaod final 
+# Euromilhões
+Exercicios resolvidos e euromilhões resultado final 
