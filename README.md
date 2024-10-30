@@ -78,4 +78,3 @@ Modify the project to request keys from the server.
 =======
 # Euromilhões
 Exercicios resolvidos e euromilhões resultado final 
->>>>>>> cb353a2da6d894398f69672b0a6eb5999f893b66
